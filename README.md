@@ -23,7 +23,7 @@ A continuación, se detalla la estructura y el cronograma de trabajo colaborativ
 
 #### **3. Flujo de Trabajo con Ramas**
    - **3.1. Creación de Ramas para Nuevas Tareas:**
-     - Cada vez que se asigne una tarea nueva, el colaborador creará una rama específica desde la rama principal (`main` o `master`). La rama debe ser nombrada de manera descriptiva, por ejemplo: `feature/data-cleaning` o `model/initial-training`.
+     - Cada vez que se asigne una tarea nueva, el colaborador creará una rama específica desde la rama principal (`main` o `master`). La rama debe ser nombrada de manera descriptiva, por ejemplo: `feature/data-cleaning` o `fase3/tarea_especifica`.
      - Comando para crear y cambiar a una nueva rama:
        ```bash
        git checkout -b nombre-de-la-rama
